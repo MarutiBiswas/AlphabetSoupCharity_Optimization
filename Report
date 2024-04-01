@@ -40,3 +40,5 @@ Were you able to achieve the target model performance? The best I got accuracy 0
 What steps did you take in your attempts to increase model performance? after cleanining & removing none features neither targets, & splitting used the deep neural net & trying diffrent number of layers, activations, optimizers & epochs
 
 Q3- Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+
+
