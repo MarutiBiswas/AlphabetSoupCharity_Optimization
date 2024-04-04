@@ -38,10 +38,11 @@ Were you able to achieve the target model performance? The best I got accuracy 0
 
 What steps did you take in your attempts to increase model performance? after cleanining & removing none features neither targets, & splitting used the deep neural net & trying diffrent number of layers, activations, optimizers & epochs
 
-Q3- Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation<img width="969" alt="Screenshot 2024-03-31 at 9 56 35 PM" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/e6b35435-bb6e-4470-a19e-6a0fb57f0c54">
-<img width="345" alt="319393818-9fddf5c0-e687-4396-a838-f4cc85e82d31" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/e8a07e35-fb51-4fea-9bc4-aba8f013d7c2">
-<img width="468" alt="319393851-17738ac5-a0c6-49be-bbec-a0b133c8533b" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/0dbcf975-e964-4212-88d8-631237489e90">
-<img width="448" alt="319393890-cde60838-bbe2-441e-8ef9-91f66a1e3ea0" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/a4353535-8975-41ac-a462-5826a2e5ffee">
-<img width="468" alt="319393917-339b32ab-4bc6-40e7-9416-2e01581a2856" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/5a34130d-f0a0-47c7-93d6-08b31bf0b24b">
-<img width="468" alt="319393945-406fe375-d8da-4753-a022-65b1b5385bee" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/1a9f7aac-8541-4bd3-868c-b85028bd2cfa">
-<img width="468" alt="319393967-6d755e59-a8e7-47dc-b5e3-072d55e721ab" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/bae9f7c4-3e1b-4575-b643-61258d6f25e2">
+Q3- Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation:
+
+<img width="468" alt="image" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/716b0013-4ea6-4752-8c77-04d7452af4a4">
+<img width="468" alt="image" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/9bee0bdc-0fdf-447c-a7ca-340d65c1698e">
+<img width="448" alt="image" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/edc4fd08-4e3c-491b-8b06-fdc09b1e2bff">
+<img width="468" alt="image" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/00b98bfb-0000-4568-99ed-d46d17ce84ec">
+<img width="468" alt="image" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/41d543e6-6dce-4475-9f61-66c1c2816692">
+<img width="468" alt="image" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/1bc4a7c7-b3fe-4f80-a439-055b1a9d3f08">
