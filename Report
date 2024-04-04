@@ -39,8 +39,3 @@ Were you able to achieve the target model performance? The best I got accuracy 0
 What steps did you take in your attempts to increase model performance? after cleanining & removing none features neither targets, & splitting used the deep neural net & trying diffrent number of layers, activations, optimizers & epochs
 
 Q3- Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation<img width="969" alt="Screenshot 2024-03-31 at 9 56 35 PM" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/e6b35435-bb6e-4470-a19e-6a0fb57f0c54">
-<img width="774" alt="Screenshot 2024-03-31 at 9 57 27 PM" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/1cd8be18-9a99-4ef7-bab7-0cd21fc23acc">
-<img width="937" alt="Screenshot 2024-03-31 at 9 57 36 PM" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/20070891-e5b1-48eb-8767-4065df449009">
-<img width="615" alt="Screenshot 2024-03-31 at 9 57 42 PM" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/1bec9d92-bdc6-4a26-ad15-f61120ead7a3">
-<img width="960" alt="Screenshot 2024-03-31 at 9 57 48 PM" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/5aeea258-0a5b-49a6-9649-405bd04fac72">
-<img width="653" alt="Screenshot 2024-03-31 at 9 57 53 PM" src="https://github.com/MarutiBiswas/AlphabetSoupCharity_Optimization/assets/147889069/b27be9ed-adbb-4386-9a89-280bc7f23fc0">
